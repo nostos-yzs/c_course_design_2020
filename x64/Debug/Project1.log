@@ -1,0 +1,49 @@
+﻿  alg.cpp
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\alg.cpp(34,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\alg.cpp(85,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\alg.cpp(125,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  closewin.cpp
+  docwin.cpp
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\docwin.cpp(15,18): warning C4101: “y2”: 未引用的局部变量
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\docwin.cpp(15,10): warning C4101: “y1”: 未引用的局部变量
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\docwin.cpp(15,14): warning C4101: “x2”: 未引用的局部变量
+  draw.cpp
+  edit.cpp
+  file_op.cpp
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\file_op.cpp(170,33): warning C4101: “m”: 未引用的局部变量
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\file_op.cpp(408,6): warning C4101: “flag2”: 未引用的局部变量
+  findwin.cpp
+  help.cpp
+  highlit.cpp
+  keyboard.cpp
+  login.cpp
+  LST.cpp
+  main.cpp
+  hz.cpp
+  menu.cpp
+  mouse.cpp
+  re.cpp
+  refresh.cpp
+  search.cpp
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\search.cpp(35,11): warning C4101: “p”: 未引用的局部变量
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\search.cpp(147,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\search.cpp(139,16): warning C4101: “attention”: 未引用的局部变量
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\search.cpp(384,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\search.cpp(385,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\search.cpp(451,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\search.cpp(452,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\search.cpp(523,30): warning C4101: “temp”: 未引用的局部变量
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\search.cpp(549,15): warning C4101: “p”: 未引用的局部变量
+  text.cpp
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\text.cpp(162,18): warning C4101: “cnb”: 未引用的局部变量
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\text.cpp(162,12): warning C4101: “cn”: 未引用的局部变量
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\text.cpp(177,6): warning C4101: “i”: 未引用的局部变量
+  正在生成代码...
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\docwin.cpp(194): warning C4715: “clickWindow”: 不是所有的控件路径都返回值
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\closewin.cpp(35): warning C4715: “popwin”: 不是所有的控件路径都返回值
+C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\closewin.cpp(105): warning C4715: “close_all_windows”: 不是所有的控件路径都返回值
+  正在编译...
+  usr.cpp
+  windowdr.cpp
+  正在生成代码...
+  Project1.vcxproj -> C:\Users\Administrator\Desktop\c_course_design__qwj__yzs\x64\Debug\Project1.exe
